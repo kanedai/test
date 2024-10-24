@@ -1,1 +1,2 @@
 notebooklm.google
+*notebooklm*
