@@ -1,2 +1,3 @@
 notebooklm.google
+*openrouter*
 *notebooklm*
